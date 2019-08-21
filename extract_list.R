@@ -8,3 +8,4 @@ extract_list <- function(mylist){
   
   return(total)
 }
+
